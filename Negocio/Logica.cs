@@ -2,13 +2,13 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Ejerciciosemana2.Entidades;
 
 namespace Ejerciciosemana2.Negocio
 {
     internal class Logica
     {
-        public String NMayorOIgual (Numeros num)
-        {
+        public String NMayorOIgual (Numeros num) {
             int n1 = num.getNumero1();
             int n2 = num.getNumero2();
 

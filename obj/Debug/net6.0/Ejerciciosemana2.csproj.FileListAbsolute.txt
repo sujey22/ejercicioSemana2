@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\Documents\GitHub\ejercicioSemana2\bin\Debug\net6.0\Ejerciciosemana2.exe
+C:\Users\MINEDUCYT\Documents\GitHub\ejercicioSemana2\bin\Debug\net6.0\Ejerciciosemana2.deps.json
+C:\Users\MINEDUCYT\Documents\GitHub\ejercicioSemana2\bin\Debug\net6.0\Ejerciciosemana2.runtimeconfig.json
+C:\Users\MINEDUCYT\Documents\GitHub\ejercicioSemana2\bin\Debug\net6.0\Ejerciciosemana2.dll
+C:\Users\MINEDUCYT\Documents\GitHub\ejercicioSemana2\bin\Debug\net6.0\Ejerciciosemana2.pdb
+C:\Users\MINEDUCYT\Documents\GitHub\ejercicioSemana2\obj\Debug\net6.0\Ejerciciosemana2.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\GitHub\ejercicioSemana2\obj\Debug\net6.0\Ejerciciosemana2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Documents\GitHub\ejercicioSemana2\obj\Debug\net6.0\Ejerciciosemana2.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Documents\GitHub\ejercicioSemana2\obj\Debug\net6.0\Ejerciciosemana2.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Documents\GitHub\ejercicioSemana2\obj\Debug\net6.0\Ejerciciosemana2.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\GitHub\ejercicioSemana2\obj\Debug\net6.0\Ejerciciosemana2.dll
+C:\Users\MINEDUCYT\Documents\GitHub\ejercicioSemana2\obj\Debug\net6.0\refint\Ejerciciosemana2.dll
+C:\Users\MINEDUCYT\Documents\GitHub\ejercicioSemana2\obj\Debug\net6.0\Ejerciciosemana2.pdb
+C:\Users\MINEDUCYT\Documents\GitHub\ejercicioSemana2\obj\Debug\net6.0\Ejerciciosemana2.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Documents\GitHub\ejercicioSemana2\obj\Debug\net6.0\ref\Ejerciciosemana2.dll

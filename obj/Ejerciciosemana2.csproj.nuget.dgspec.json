@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\proyectos\\Ejerciciosemana2\\Ejerciciosemana2.csproj": {}
+    "C:\\Users\\MINEDUCYT\\Documents\\GitHub\\ejercicioSemana2\\Ejerciciosemana2.csproj": {}
   },
   "projects": {
-    "C:\\proyectos\\Ejerciciosemana2\\Ejerciciosemana2.csproj": {
+    "C:\\Users\\MINEDUCYT\\Documents\\GitHub\\ejercicioSemana2\\Ejerciciosemana2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyectos\\Ejerciciosemana2\\Ejerciciosemana2.csproj",
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Documents\\GitHub\\ejercicioSemana2\\Ejerciciosemana2.csproj",
         "projectName": "Ejerciciosemana2",
-        "projectPath": "C:\\proyectos\\Ejerciciosemana2\\Ejerciciosemana2.csproj",
+        "projectPath": "C:\\Users\\MINEDUCYT\\Documents\\GitHub\\ejercicioSemana2\\Ejerciciosemana2.csproj",
         "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "C:\\proyectos\\Ejerciciosemana2\\obj\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\Documents\\GitHub\\ejercicioSemana2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
